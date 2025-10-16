@@ -6,10 +6,11 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 👨🏻 Brader: \
 Do you know where's my beer? \
-In my beer there's a flag, can you find it?
+In my beer there's a flag, can you find it? \
 Using "wordlist.beer" you can extract the flag.
 
 **Hint:** \
 Crack me
 
 # Sumbit the flag here:
+https://forms.gle/BywLeDDNYRwo6Kwm8
