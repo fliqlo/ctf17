@@ -1,5 +1,5 @@
 
-# ctf17
+# ctf17 SuperBeer
 Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 📝 **INSTRUCTIONS**:
